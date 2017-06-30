@@ -29,5 +29,4 @@ that could stage, commit, push, & pull to the repository. But, any merge of pull
 requests had to be done by another team member after reviewing changes. Code was
 written via paired programming.
 
-
-<a href="https://youtu.be/J0lcyXubc4I"><img src="https://youtu.be/J0lcyXubc4I" width="240" height="180" border="10" /></a>
+[![APP DEMO](https://img.youtube.com/vi/J0lcyXubc4I/0.jpg)](https://www.youtube.com/watch?v=J0lcyXubc4I&feature=youtu.be)
